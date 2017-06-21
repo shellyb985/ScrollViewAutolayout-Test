@@ -25,18 +25,4 @@
     // Dispose of any resources that can be recreated.
 }
 
-/*
- 
- NOTES :
- 
- FIRST SET AUTOLAYOUT TO SCROLL VIEW (0,0,0,0)
- ADD CONTENT VIEW 
- SET AUTOLAYOUT (0,0,0,0)
- CONTENT VIEW T0 [SCROLLVIEW super] EQUAL WIDTH
- ADD CONTENT AND SET HEIGHT ACCORDING TO CONTENT `
- 
- 
- */
-
-
 @end
